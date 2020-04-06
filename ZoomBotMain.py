@@ -3,8 +3,8 @@ import json
 import random
 import time
 
-url = "https://us04web.zoom.us/wc/join/455023374?wpk=wcpk41ec98bd4bc26803dd45309a41cb9c3b"
-password = "N1hoNFh1SzRkeGJNLzMyU2FEdVdJQT09"
+url = ""
+password = ""
 
 while True:
 	names = json.loads(open('names.json').read())
